@@ -5,4 +5,6 @@ This kit enables creating Micronaut based kafka producer-consumer using Apache A
 ## pre-requisite
 Micronaut framework, sdkman etc.
 
+Adding more details soon.
+
 
